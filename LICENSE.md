@@ -1,7 +1,4 @@
-
----
-
-### **Explanation of Key Sections**:
+ **Explanation of Key Sections**:
 
 1. **Overview**: Introduces the Foundation framework and the customization possibilities using Sass.
 2. **Features**: Lists the grid system, responsive design, typography, form elements, buttons, and utilities that come with Foundation.
