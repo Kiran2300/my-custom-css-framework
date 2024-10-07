@@ -1,7 +1,7 @@
 # Foundation-Based Custom CSS Framework
 
 Overview
-This project is built using the **Foundation CSS Framework** combined with **Sass**. It’s designed to provide a flexible, customizable, and modern front-end framework for building responsive web pages. The framework offers styles for common HTML elements and a variety of utility classes to streamline development.
+This project is built using the **Foundation CSS Framework** combined with **Sass**. It’s designed to provide a flexible, customizable, and modern front-end framework for building responsive web pages. The framework offers styles for common HTML elements and a variety of utility classes to streamline development..
 
 ## Table of Contents
 
