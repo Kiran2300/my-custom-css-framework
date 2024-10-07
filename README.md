@@ -29,7 +29,7 @@ Features
 
 
 
-#Output-
+#Output:
 
 HOME
 ![Screenshot (726)](https://github.com/user-attachments/assets/7f9cce44-7320-4c1a-afef-f5a7a1771ffe)
