@@ -30,6 +30,8 @@ Features
 
 
 #Output
+
+HOME
 ![Screenshot (726)](https://github.com/user-attachments/assets/7f9cce44-7320-4c1a-afef-f5a7a1771ffe)
 
 ![Screenshot (727)](https://github.com/user-attachments/assets/7e404b34-9b2d-4779-98d4-2c55c7369c01)
